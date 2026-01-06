@@ -1,4 +1,8 @@
-# 100 Days of Code 🚀
+### Day 2
+- Practiced JavaScript DOM events
+- Used addEventListener for click and hover
+- Implemented dark mode using document.body
+- Debugged event handling issues# 100 Days of Code 🚀
 
 ## Tech Stack
 - Java
