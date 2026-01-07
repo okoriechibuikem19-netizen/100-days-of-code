@@ -21,3 +21,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Used addEventListener for click and hover
 - Implemented dark mode using document.body
 - Debugged event handling issues
+
+
+### Day 3
+- Learned Java threads
+- Practiced start() vs run()
+- Ran multiple threads concurrently
+- Used thread names to observe execution
