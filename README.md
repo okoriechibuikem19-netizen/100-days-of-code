@@ -28,3 +28,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Practiced start() vs run()
 - Ran multiple threads concurrently
 - Used thread names to observe execution
+
+
+### Day 4
+- Built a login form
+- Implemented JavaScript form validation
+- Used querySelectorAll for multiple error elements
+- Debugged DOM selection issues
