@@ -35,3 +35,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Implemented JavaScript form validation
 - Used querySelectorAll for multiple error elements
 - Debugged DOM selection issues
+
+
+### Day 5
+- Built a theme switcher
+- Used DOM manipulation for UI changes
+- Persisted user preferences using localStorage
+- Restored state on page reload
