@@ -42,3 +42,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Used DOM manipulation for UI changes
 - Persisted user preferences using localStorage
 - Restored state on page reload
+
+
+### Day 6
+- Learned what threads are
+- Compared Thread vs Runnable
+- Practiced concurrent execution
+- Understood why Runnable is preferred
