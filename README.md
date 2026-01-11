@@ -49,3 +49,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Compared Thread vs Runnable
 - Practiced concurrent execution
 - Understood why Runnable is preferred
+
+
+### Day 7
+- Studied thread lifecycle
+- Used sleep() to pause execution
+- Used join() for thread coordination
+- Observed thread state transitions
