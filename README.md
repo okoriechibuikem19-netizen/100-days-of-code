@@ -56,3 +56,10 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Used sleep() to pause execution
 - Used join() for thread coordination
 - Observed thread state transitions
+
+
+### Day 8
+- Learned about race conditions
+- Understood thread safety issues
+- Used synchronized methods and blocks
+- Fixed data inconsistency in multithreaded code
