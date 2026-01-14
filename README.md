@@ -63,3 +63,9 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Understood thread safety issues
 - Used synchronized methods and blocks
 - Fixed data inconsistency in multithreaded code
+
+
+### Day 9
+- Simulated multiple users logging into an app
+- Used thread pool to handle user requests safely
+- Understood how backend manages concurrent users
