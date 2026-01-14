@@ -69,3 +69,9 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Simulated multiple users logging into an app
 - Used thread pool to handle user requests safely
 - Understood how backend manages concurrent users
+
+
+### Day 10
+- Learned how to run background tasks without blocking the app
+- Used Callable to return results from threads
+- Used Future to receive login status
