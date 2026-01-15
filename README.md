@@ -75,3 +75,9 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Learned how to run background tasks without blocking the app
 - Used Callable to return results from threads
 - Used Future to receive login status
+
+
+### Day 11
+- Connected frontend user actions to backend processing
+- Learned how multiple user actions are handled safely
+- Used thread pool to prevent system overload
