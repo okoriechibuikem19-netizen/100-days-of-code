@@ -81,3 +81,17 @@ My 100 Days of Code challenge (Java, HTML, CSS, JavaScript)
 - Connected frontend user actions to backend processing
 - Learned how multiple user actions are handled safely
 - Used thread pool to prevent system overload
+
+
+## Day 12 – Java Synchronization
+
+**Goal:**  
+Understand how Java handles multiple threads accessing shared data.
+
+**What I learned:**  
+- How threads can cause data inconsistency
+- How `synchronized` ensures only one thread accesses a method at a time
+- Why synchronization is important in real-world applications like banking systems
+
+**Key takeaway:**  
+`synchronized` prevents multiple threads from modifying shared data at the same time.
