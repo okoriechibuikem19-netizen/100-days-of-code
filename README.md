@@ -95,3 +95,9 @@ Understand how Java handles multiple threads accessing shared data.
 
 **Key takeaway:**  
 `synchronized` prevents multiple threads from modifying shared data at the same time.
+
+
+## Day 13
+-Learned how to handle button clicks using JavaScript
+-Practiced using addEventListener to respond to user actions
+-Understood how user interaction controls what happens on a web page
