@@ -101,3 +101,9 @@ Understand how Java handles multiple threads accessing shared data.
 -Learned how to handle button clicks using JavaScript
 -Practiced using addEventListener to respond to user actions
 -Understood how user interaction controls what happens on a web page
+
+
+### Day 14 – JavaScript Forms
+- Built a simple login form
+- Validated user input with JavaScript
+- Prevented form submission when data is incorrect
