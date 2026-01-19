@@ -107,3 +107,8 @@ Understand how Java handles multiple threads accessing shared data.
 - Built a simple login form
 - Validated user input with JavaScript
 - Prevented form submission when data is incorrect
+
+
+### Day 15 – Local Storage
+- Learned how to save user data in the browser
+- Used localStorage to remember user preferences
