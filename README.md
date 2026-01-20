@@ -112,3 +112,8 @@ Understand how Java handles multiple threads accessing shared data.
 ### Day 15 – Local Storage
 - Learned how to save user data in the browser
 - Used localStorage to remember user preferences
+
+
+### Day 16 – Fetch API
+- Practiced getting data from an external API
+- Displayed fetched data on the web page
