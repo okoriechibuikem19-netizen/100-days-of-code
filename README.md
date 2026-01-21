@@ -117,3 +117,8 @@ Understand how Java handles multiple threads accessing shared data.
 ### Day 16 – Fetch API
 - Practiced getting data from an external API
 - Displayed fetched data on the web page
+
+
+### Day 17 – API Error Handling
+- Added basic error handling when fetching data
+- Displayed messages when requests fail
