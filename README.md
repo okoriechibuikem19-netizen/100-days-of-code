@@ -122,3 +122,8 @@ Understand how Java handles multiple threads accessing shared data.
 ### Day 17 – API Error Handling
 - Added basic error handling when fetching data
 - Displayed messages when requests fail
+  
+
+### Day 18 – Loading States
+- Added a loading message while fetching data
+- Improved user experience during async operations
