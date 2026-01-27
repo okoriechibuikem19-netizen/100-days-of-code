@@ -127,3 +127,17 @@ Understand how Java handles multiple threads accessing shared data.
 ### Day 18 – Loading States
 - Added a loading message while fetching data
 - Improved user experience during async operations
+
+
+##Day 19
+• Learned how to store user data using localStorage
+• Understood how data stays even after page reload
+• Used JavaScript to read stored data on page load
+• Updated the UI based on saved user information
+
+
+##Day 20
+• Simulated a user profile on the frontend
+• Used stored data to control what is shown on the page
+• Learned how logout works by clearing stored data
+• Connected user actions to DOM updates
