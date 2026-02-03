@@ -141,3 +141,12 @@ Understand how Java handles multiple threads accessing shared data.
 - Used stored data to control what is shown on the page
 - Learned how logout works by clearing stored data
 - Connected user actions to DOM updates
+
+
+*README (DAY 20–27 TASK – SHORT)
+- Built a complete login flow using DOM and events
+- Read and validated user input correctly
+- Used boolean logic to control app flow
+- Stored and retrieved user data with localStorage
+- Updated UI dynamically based on user state
+- Learned to think in terms of time and user actions
