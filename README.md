@@ -150,3 +150,14 @@ Understand how Java handles multiple threads accessing shared data.
 - Stored and retrieved user data with localStorage
 - Updated UI dynamically based on user state
 - Learned to think in terms of time and user actions
+
+##Day 27–35
+
+• Learned how application state controls what users see
+• Practiced showing and hiding UI based on state
+• Used functions to organize application logic
+• Simulated login and API data in a frontend app
+• Learned how loading states work in an application
+• Practiced fetching data from an API
+• Learned how to handle errors when fetching data
+• Combined DOM, events, state, functions, and API calls in one project
